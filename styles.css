@@ -23,8 +23,8 @@ h1 {
 }
 
 #score, #timer {
-    font-size: 18px;
-    margin: 10px 0;
+    font-size: 32px;
+    margin: 20px;
 }
 
 #game-board {
