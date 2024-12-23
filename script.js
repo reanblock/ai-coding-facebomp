@@ -23,6 +23,10 @@ document.addEventListener('DOMContentLoaded', () => {
             face.style.transform = 'translate(-50%, -50%) scale(1)';
             setTimeout(() => {
                 face.style.transform = 'translate(-50%, -50%) scale(0)';
+                face.style.border = '3px solid red';
+                setTimeout(() => {
+                    face.style.border = '3px solid transparent';
+                }, 300);
             }, 800);
         }, 1000);
 
