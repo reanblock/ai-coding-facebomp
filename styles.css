@@ -50,6 +50,7 @@ h1 {
 .face {
     width: 80px;
     height: 80px;
+    border-radius: 50%;
     transition: transform 0.3s ease;
     position: absolute;
     top: 50%;
