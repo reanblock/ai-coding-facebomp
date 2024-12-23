@@ -38,8 +38,8 @@ h1 {
 .hole {
     background-color: #0055aa;
     border-radius: 50%;
-    width: 112px; /* 40% larger than 80px */
-    height: 112px; /* 40% larger than 80px */
+    width: 140px; /* Increased size */
+    height: 140px; /* Increased size */
     display: flex;
     align-items: center;
     justify-content: center;
